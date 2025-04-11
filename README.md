@@ -19,10 +19,10 @@ I love building efficient and innovative solutions that transform user experienc
 ## 🌐 Socials:
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dimalavrov2004.06.16@gmail.com?subject=Hey,%20I've%20Got%20an%20Idea!%20💡)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dmytro-lavrov-a0477b35b/)
 <a href="https://t.me/Diyolo">
   <img src="https://raw.githubusercontent.com/matomo-org/matomo-icons/master/src/socials/web.telegram.org.svg" alt="Telegram" width="48" height="48">
 </a>
-
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,react,redux,nodejs,express,mongodb,gulp,webpack,vite,git,github,vscode,figma)](https://skillicons.dev)
